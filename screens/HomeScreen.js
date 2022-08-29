@@ -25,8 +25,8 @@ const HomeScreen = () => {
         >
         <Categories />
         <FeatureRow title='Featured' discription='Lorem iqamren sod oert dfioor dfi' />
-        <FeatureRow title='Featured' discription='Lorem iqamren sod oert dfioor dfi' />
-        <FeatureRow title='Featured' discription='Lorem iqamren sod oert dfioor dfi'   />
+        <FeatureRow title='Tasty Discounts' discription='Lorem iqamren sod oert dfioor dfi' />
+        <FeatureRow title='Ofers near you!' discription='Lorem iqamren sod oert dfioor dfi'   />
       </ScrollView>
     </>
   );
