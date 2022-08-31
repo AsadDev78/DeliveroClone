@@ -20,6 +20,7 @@ const Header = () => {
               fill="none"
               width={20}
               height={20}
+            
             />
           </Text>
         </View>
@@ -39,6 +40,7 @@ const Header = () => {
           <TextInput
             placeholder="Restaurants and cuisines"
             keyboardType="default"
+            className='flex-1'
           />
         </View>
         <Icon.AlignJustify
